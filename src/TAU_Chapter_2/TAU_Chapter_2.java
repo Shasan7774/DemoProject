@@ -9,6 +9,9 @@ public class TAU_Chapter_2 {
 		
 		// Number of Hours Worked
 		System.out.println("Enter the number of hours employe worked");
+		System.out.println("Enter the number of hours employe worked");
+		System.out.println("Enter the number of hours employe worked");
+		System.out.println("Enter the number of hours employe worked");
 		Scanner scr = new Scanner (System.in);
 		int hours = scr.nextInt();
 		
